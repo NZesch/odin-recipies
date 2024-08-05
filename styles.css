@@ -1,0 +1,32 @@
+/* styles.css */
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+a {
+    color: red;
+    font-size: 20px;
+}
+
+p,
+li {
+    font-size: 20px;
+}
+
+ul,
+ol {
+    background-color: rgb(221, 221, 221);
+    /* list-style-position: inside; */
+    display: inline-block;
+    text-align: center;
+}
